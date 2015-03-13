@@ -1,0 +1,1 @@
+Mi pravimo sustav za upravljanje nogometnim klubom.
